@@ -1,0 +1,6 @@
+{
+  "name": "Trắc Nghiệm Chi Bộ - Tế Bào Của Đảng",
+  "description": "Trang trắc nghiệm tương tác kiểm tra kiến thức về chủ đề 'Để Chi Bộ thực sự là Tế Bào của Đảng' với 3 câu hỏi trắc nghiệm A, B, C, D, chấm điểm tự động và giải thích chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
